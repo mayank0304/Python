@@ -1,3 +1,5 @@
+# Program to print the surface area of cube
+
 print("Mayank - 2203855")
 side = int(input("Enter edge of cube:"))
 surfaceArea = 6*(side**2) 

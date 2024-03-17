@@ -1,5 +1,0 @@
-print("Mayank - 2203855")
-oldVideos = int(input("Enter the number of Old videos rented:"))
-newVideos = int(input("Enter the number of new videos rented:"))
-totalRent = float(newVideos*3 + oldVideos*2)
-print("Rent is : $", totalRent)

@@ -1,3 +1,5 @@
+# Tax calculator program
+
 print("Mayank - 2203855")
 salary=int(input("Please enter your salary:"))
 tax = float(input("Please enter tax in percentage:"))

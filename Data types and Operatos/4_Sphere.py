@@ -1,3 +1,6 @@
+# Program that takes the radius of a sphere (a floating-point number) as input and 
+# then outputs the sphere’s diameter, circumference, surface area, and volume. 
+
 print("Mayank - 2203855")
 radius = float(input("Enter the radius of sphere:"))
 print("The radius of sphere is:",radius)
